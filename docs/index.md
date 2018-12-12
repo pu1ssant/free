@@ -1,5 +1,5 @@
 # Comparing the focus of news between China and US
-
+#### Source code: https://github.com/pu1ssant/COM5507_2018A_Final_Project
 ## Introduction
 China and the US, one is the biggest developing country and the other is the most powerful developed countries in the world. The relationship between these two countries has great influence on international relationship. Looking back, the relationship showed different trends at different time period. In the beginning of 21th century, Bush administration’s policy toward China expanded the cooperation of China and the US. In particular, the economic and trade relations between the two countries are closer. Expect from collaboration, there are also many competitions and confrontations between China and the US in politics, economy and culture. For instance, the trade war is a clear reflection of the confrontation between the two countries. The official news platforms are essential channels for government to show their political voice and communicate with people. What are the key words and most popular topics of two countries’ news headlines? Are these two countries share some focus points which means both countries are attaching importance to these issues? From differences behind headlines and content of news, are there any stories of China and the US can we find?
 
