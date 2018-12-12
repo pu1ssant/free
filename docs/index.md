@@ -113,6 +113,10 @@ Pandas, Numpy, TextBlob, and NLTK packages were used to clean the raw texts by r
 (topic modeling with LDA using tf-idf)**
 ![table7](https://raw.githubusercontent.com/pu1ssant/CityUCOM5507_2018A/master/table7.png)
 
+## Discussion
+From the comparison of the frequent terms in news titles, we can see that White House news centers on political figures in the government while State Council news focuses on China. Another interesting thing is that the name of Premier Li does not appear on the list. He is the head of State Council of China, but fails to have enough coverage. Whether he is losing power and influence in the Politburo?
+
+
 ## References
 Ooi, S., & D’Arcangelis, G. (2017). Framing China: Discourses of othering in US news and political rhetoric. Global Media And China, 2(3-4), 269-283. doi: 10.1177/2059436418756096
 
